@@ -107,6 +107,7 @@
 // }
 import React from 'react';
 import image from '../assist/home.jpg';
+import Footer from '../components/Footer';
 
 export default function About () {
   return (
